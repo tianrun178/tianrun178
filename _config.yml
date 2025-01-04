@@ -27,7 +27,7 @@ author:
   bio              : #"a master student "
   location         : "Palo Alto, US"
   employer         : "Stanford University"
-  uri              : # URL
+  uri              : "https://engineering.stanford.edu/"
   email            : "tianrun@stanford.edu" 
 
   # Academic websites
